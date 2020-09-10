@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LEADERBOARD</string>
+    <string name="new_tab_text_1">Learning Leaders</string>
+    <string name="new_tab_text_2">Skill IQ Leaders</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="project_submission">Project Submission</string>
+    <string name="submit">Submit</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="project_on_github_link">Project on GITHUB (link)</string>
+    <string name="learning_leaders">Learning Leaders</string>
+    <string name="skill_iq_leaders">Skill IQ Leaders</string>
+    <string name="cover_image">cover image</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="submission_successsful_text">Submission Successsful</string>
+    <string name="image_successful">image successful</string>
+    <string name="yes_button">Yes</string>
+    <string name="image_close">image close</string>
+    <string name="gads_logo">GADS Logo</string>
+</resources>
